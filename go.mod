@@ -1,4 +1,4 @@
-module github.com/huandu/go-sqlbuilder
+module github.com/pluto-org-co/go-sqlbuilder
 
 go 1.18
 
